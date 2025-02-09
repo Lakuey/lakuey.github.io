@@ -22,7 +22,7 @@ return (
         </a>
     </div>
     <div id="whatsapp" className='flotante'>
-        <a href="https://wa.me/5492235347158" target="_blank" rel="noopener noreferrer">
+        <a href="https://wa.me/5492236044966" target="_blank" rel="noopener noreferrer">
         <img src={whatsapp} alt="WhatsApp" />
         </a>
     </div>
